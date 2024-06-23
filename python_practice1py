@@ -1,0 +1,67 @@
+#### python part 1 practice speed run
+
+### Basic python operations
+
+## Display integer 42
+print(42)
+## Displaying addition function adding to intergers( 123 + 456)
+print(123 + 456)
+## Displaying multiplication of integers
+print(42 * 56)
+## Displaying Subtraction of integers
+print(88 - 512)
+## Displaying addition, multiplication, and subtraction of integers to get
+## zero integer as output
+print(500 + 12 * 4 - 548)
+
+### Using Strings in python
+# Strings are a sequence of characters stored in memory
+## Displaying the string: test
+print("test")
+## Dispaying a friendly greeting to the world
+print("hello world")
+## Display hyped message
+print("Let's do this!!!!")
+## Adding Quatation marks to text
+print("fix me")
+## Combining two strings with concatentation symbol
+print("pro" + "gram")
+## Combining two strings with concatentation symbol(+)
+print("fire" + "works")
+## Display a string of multiplication
+print("856 * 412 =")
+## Display the multiplication of two integers
+print(856 * 412)
+
+### Variables
+## Storing integer in age  variable
+age = 28;
+## Displaying value stored in age variable
+print("I am " + str(age) + "!!!")
+## Storing integer value in my_number variable
+my_number = 999
+## Displaying integer value in my_number variable
+print(my_number)
+## Storing string value in fruit variable
+fruit = "apple"
+## Storing integer value in the price variable
+price = 39
+## Displaying the integer value in the price variable
+print(price)
+## Storing an integer value in price variable
+price = 20
+## Storing integer value in amount variable
+amount = 113
+## Storing the product of price and amount value in total variable
+total = 20 * 113
+## Displaying the integer value in total varaible
+print(total)
+## Storing string value in word1 variable
+word1 = "moon"
+## Storing string value in word2 variable
+word2 = "light"
+## Using concatentation(+) to combine two strings and store in 
+## combination variable
+combination = "moon" + "light"
+## Display the combined string value stored in combination variable
+print(combination)
